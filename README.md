@@ -31,7 +31,6 @@ The metrics presented represent some of the most prominent programming languages
 
 ## My workspace
 <p align='center'>
-  💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i7%207th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-24GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
@@ -48,7 +47,8 @@ The metrics presented represent some of the most prominent programming languages
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/4kiras.bin">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> 
-    <a href="https://www.linkedin.com/in/josesebasti4n/">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/josesebasti4n/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
