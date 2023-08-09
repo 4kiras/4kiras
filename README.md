@@ -43,7 +43,7 @@ The metrics presented represent some of the most prominent programming languages
   <a href="https://twitter.com/josbatian14">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="631684122292518912">
+  <a href="https://discord.com/users/631684122292518912">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/4kiras.bin">
