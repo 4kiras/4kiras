@@ -55,8 +55,7 @@ The metrics presented represent some of the most prominent programming languages
 
 
 <p align='center'>
-  📫 Personal Email: <a href='mailto:josbatian14@gmail.com'>josbatian14@gmail.com</a><br>
-  📫 Institutional Email: <a href='mailto:josbatian14@gmail.com'>josbatian14@gmail.com</a>
+  📫 Personal Email: <a href='mailto:4kiras@proton.me'>4kiras@proton.me</a><br>
 </p>
 
 <!--
