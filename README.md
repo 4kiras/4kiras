@@ -19,15 +19,6 @@
 
 <p align='center'>
 I am a computer science student at the National University of Loja in Ecuador. Currently, I am learning about web development and cybersecurity. I am passionate about technology and everything related to it. I like to learn new things and I am always open to new challenges.
-</p>
-
-## Metrics from my GitHub Profile
-The metrics presented represent some of the most prominent programming languages in my profile:
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4kiras&theme=onedark" width="300"></a>
-
-</p>
 
 ## My workspace
 <p align='center'>
